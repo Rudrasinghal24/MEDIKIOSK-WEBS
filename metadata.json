@@ -1,0 +1,6 @@
+{
+  "name": "MediKiosk - OPD Clinical Intake & Document OCR",
+  "description": "AI-driven clinical history-taking, prescription OCR, triage red-flag detection, and physician summary platform for hospital OPDs in India.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
